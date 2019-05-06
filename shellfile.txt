@@ -5,5 +5,4 @@ read "select your party name (ysrcp,tdp,janasena,congress,bjp) :" pname
 case $pname in
 ysrcp) echo "party name: ysrcp
              president: ys jagan mohan reddy" ;;
-             echo "add"echo echpo
-
+             

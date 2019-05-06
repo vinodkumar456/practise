@@ -1,4 +1,4 @@
-read -p "do you want to know about your party president (yes/no) :" dknow
+ead -p "do you want to know about your party president (yes/no) :" dknow
 if [ $dknow == yes ]
 then
 read "select your party name (ysrcp,tdp,janasena,congress,bjp) :" pname
